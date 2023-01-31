@@ -15,7 +15,7 @@
     "prettier": "npx prettier --write ."
   },
   "bin": "./bin/cli.js",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@angular/animations": "^15.1.0",
     "@angular/common": "^15.1.0",
