@@ -10,7 +10,7 @@ import { CommonModule } from "@angular/common";
       <div class="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8">
         <div class="mx-auto max-w-lg text-center">
           <h2 class="text-3xl font-bold sm:text-4xl">
-            Your Angular App is Ready!
+            Your Modern Angular App is Ready!
           </h2>
 
           <p class="mt-4 text-gray-300">
@@ -22,7 +22,7 @@ import { CommonModule } from "@angular/common";
         <div class="mt-8 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
           <a
             class="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-pink-500/10 hover:shadow-pink-500/10"
-            href="/services/digital-campaigns">
+            href="https://angular.io">
             <img
               class="h-10 w-10"
               src="/assets/angular.svg"
@@ -41,7 +41,7 @@ import { CommonModule } from "@angular/common";
 
           <a
             class="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-pink-500/10 hover:shadow-pink-500/10"
-            href="/services/digital-campaigns">
+            href="https://tailwindcss.com">
             <img
               class="h-10 w-10"
               src="/assets/tailwindcss.svg"
@@ -50,15 +50,15 @@ import { CommonModule } from "@angular/common";
             <h2 class="mt-4 text-xl font-bold text-white">TailwindCss</h2>
 
             <p class="mt-1 text-sm text-gray-300">
-              TailwindCss is for me the less horrible way to do css in web apps,
-              No Debate. That's why it is included in this Angular starter. Read
+              TailwindCss is the less horrible way to do css in web apps, No
+              Debate. That's why it is included in this Angular starter. Read
               the docs, you'll see, it's okay!
             </p>
           </a>
 
           <a
             class="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-pink-500/10 hover:shadow-pink-500/10"
-            href="/services/digital-campaigns">
+            href="https://eslint.org">
             <img class="h-10 w-10" src="/assets/eslint.svg" alt="eslint logo" />
 
             <h2 class="mt-4 text-xl font-bold text-white">Eslint</h2>
@@ -72,7 +72,7 @@ import { CommonModule } from "@angular/common";
 
           <a
             class="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-pink-500/10 hover:shadow-pink-500/10"
-            href="/services/digital-campaigns">
+            href="https://prettier.io">
             <img
               class="h-10 w-10"
               src="/assets/prettier.svg"
@@ -90,7 +90,7 @@ import { CommonModule } from "@angular/common";
 
           <a
             class="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-pink-500/10 hover:shadow-pink-500/10"
-            href="/services/digital-campaigns">
+            href="https://github.com/clemparpa/Angular-Modern-App">
             <img class="h-10 w-10" src="/assets/github.svg" alt="github logo" />
 
             <h2 class="mt-4 text-xl font-bold text-white">Support Us</h2>
@@ -104,7 +104,7 @@ import { CommonModule } from "@angular/common";
 
         <div class="mt-12 text-center">
           <a
-            href="#"
+            href="https://github.com/clemparpa/Angular-Modern-App"
             class="mt-8 inline-flex items-center rounded border border-pink-600 bg-pink-600 px-8 py-3 text-white hover:bg-transparent focus:outline-none focus:ring active:text-pink-500">
             <span class="text-sm font-medium"> Our Github Repo </span>
 
