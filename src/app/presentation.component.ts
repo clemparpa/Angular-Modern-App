@@ -22,13 +22,11 @@ import { CommonModule } from "@angular/common";
         <div class="mt-8 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
           <a
             class="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-pink-500/10 hover:shadow-pink-500/10"
-            href="/services/digital-campaigns"
-          >
+            href="/services/digital-campaigns">
             <img
               class="h-10 w-10"
               src="/assets/angular.svg"
-              alt="angular logo"
-            />
+              alt="angular logo" />
 
             <h2 class="mt-4 text-xl font-bold text-white">Angular 15!</h2>
 
@@ -43,13 +41,11 @@ import { CommonModule } from "@angular/common";
 
           <a
             class="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-pink-500/10 hover:shadow-pink-500/10"
-            href="/services/digital-campaigns"
-          >
+            href="/services/digital-campaigns">
             <img
               class="h-10 w-10"
               src="/assets/tailwindcss.svg"
-              alt="tailwind logo"
-            />
+              alt="tailwind logo" />
 
             <h2 class="mt-4 text-xl font-bold text-white">TailwindCss</h2>
 
@@ -62,8 +58,7 @@ import { CommonModule } from "@angular/common";
 
           <a
             class="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-pink-500/10 hover:shadow-pink-500/10"
-            href="/services/digital-campaigns"
-          >
+            href="/services/digital-campaigns">
             <img class="h-10 w-10" src="/assets/eslint.svg" alt="eslint logo" />
 
             <h2 class="mt-4 text-xl font-bold text-white">Eslint</h2>
@@ -77,13 +72,11 @@ import { CommonModule } from "@angular/common";
 
           <a
             class="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-pink-500/10 hover:shadow-pink-500/10"
-            href="/services/digital-campaigns"
-          >
+            href="/services/digital-campaigns">
             <img
               class="h-10 w-10"
               src="/assets/prettier.svg"
-              alt="eslint logo"
-            />
+              alt="eslint logo" />
 
             <h2 class="mt-4 text-xl font-bold text-white">Prettier</h2>
 
@@ -97,8 +90,7 @@ import { CommonModule } from "@angular/common";
 
           <a
             class="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-pink-500/10 hover:shadow-pink-500/10"
-            href="/services/digital-campaigns"
-          >
+            href="/services/digital-campaigns">
             <img class="h-10 w-10" src="/assets/github.svg" alt="github logo" />
 
             <h2 class="mt-4 text-xl font-bold text-white">Support Us</h2>
@@ -113,8 +105,7 @@ import { CommonModule } from "@angular/common";
         <div class="mt-12 text-center">
           <a
             href="#"
-            class="mt-8 inline-flex items-center rounded border border-pink-600 bg-pink-600 px-8 py-3 text-white hover:bg-transparent focus:outline-none focus:ring active:text-pink-500"
-          >
+            class="mt-8 inline-flex items-center rounded border border-pink-600 bg-pink-600 px-8 py-3 text-white hover:bg-transparent focus:outline-none focus:ring active:text-pink-500">
             <span class="text-sm font-medium"> Our Github Repo </span>
 
             <svg
@@ -122,14 +113,12 @@ import { CommonModule } from "@angular/common";
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
               viewBox="0 0 24 24"
-              stroke="currentColor"
-            >
+              stroke="currentColor">
               <path
                 stroke-linecap="round"
                 stroke-linejoin="round"
                 stroke-width="2"
-                d="M17 8l4 4m0 0l-4 4m4-4H3"
-              />
+                d="M17 8l4 4m0 0l-4 4m4-4H3" />
             </svg>
           </a>
         </div>
