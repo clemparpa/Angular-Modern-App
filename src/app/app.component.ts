@@ -1,8 +1,10 @@
 import { Component } from "@angular/core";
+import { PresentationComponent } from "./presentation.component";
 
 @Component({
   selector: "app-root",
-  template: ` <h1>HelloWorld</h1> `,
+  imports: [PresentationComponent],
+  template: ` <app-presentation></app-presentation> `,
   styles: [],
   standalone: true,
 })
